@@ -1,0 +1,107 @@
+E. Thiyagarajan     
+
+Project Name : shakoush 
+
+      1, Edit job details drag and drop image upload process and change to ajax edit process 3hr
+      2, add new project process to delete the image from temp directory 1hr
+      3, customer decline job listed the view all offers page  2hr
+      4, find contractor page sorting process add new sorting feature 2hr
+      5, porfolio image upload edit concept to remove the images from temp folder and portfolio folder 4hr
+      6, contractor view profile page and review pagination in tab  2hr
+      7, edit offeres process popup, delete offer, add new milestone and view all offers check the process in live 3hr
+      8, read feedback in contractor history page popup and list the data  1hr
+      9, leavejob process functionality 
+     10, check the full functionality of site and fix the issues
+     11, get the requirement from the client to done the payment integration process
+     12, study about the stored procedure and how to integrate
+     13, client added new functionality from invision  
+     
+     chat with client to get the requirements and clarify the doubts
+     walk through all the functionality in site to client
+
+
+Project Name: menustart.in
+    
+     1, new domain in index page htaccess issues
+
+Project Name: branchordersystem
+
+     1, find and fix the issues from the testing document 3hr
+     2, change the printing settings from the client requirements
+
+Project Name: Renovationcircle
+ 
+     1, check the script for bulk payment process
+     2, get the script for image upload in ie  
+
+Project Name: idftravaux.com
+
+     1, analysis the customization document from client
+
+Magesh.s
+
+Project Name:Requesta(10 hrs)
+
+            1.To process for contact us page
+            2.To process and change the all email templates
+            3.To create a popup for every success message in contractor my account
+            4.To create a popup for every success message in customer my account.
+            5.To check and process the upgrade and degrade process in contractor myaccount side
+            6.To work in footer page static page
+            7.To upload all files in live
+            8.To test the whole site in live       
+            9,payment integration process
+           10,facebook page to register contractor process and post job process
+           11, find and fix the issues from testing document
+
+Project Name: menustart.in 
+ 
+          1, dine-in admin offer add/edit management process 4hr
+          2, dine-in settings pages 1hr
+          3, client side integrate the dine-in process and bookatable with offers 10hr   
+          4, admin side banner management for each theme 2hr
+          5, check out page payment option modification
+          6, succes page list order details
+          7, admin side theme changes issues
+          8, mail templates changes in whole site
+          9, footer page modificatin based new theme design
+         10, plugin to order only vew from the menu, checkout, success , login sign up
+         11, sms process in whole site
+         12, new domain index page process 
+       
+
+Vimala.a
+
+Project name: Renovationcircle 
+           
+        1, stipe payment integration process in circle 
+        2, integration of image upload process in message send
+
+Project name: Shakoush         
+       
+       1, Adminside settings for twilo sms integration 1hr
+       2, Homeowner phone verification code send process 1hr
+       3, Contractor phone verification code send process 30min
+       4, Portfolio process in client side
+             - Edit process with images and description 1hr
+             - Delete a entire portfolio with their images  1.30hrs
+             - Portfolio project title display, only new project title only adminside and clientside 2hrs
+       5, Entire site send sms integration process 2hrs
+       6, fix the issues from the testing document
+
+Project Name: idftravaux.com
+
+        1, index page modification based on new design
+        2, hide the paper lead and backage lead concept from the site
+        3, admin side featured payment manament list
+        4, admin side management for the new state,city,zipcode from the site country
+        5, client side all the concept modified based on site country state, city, zipcode 
+        6, post a job page process
+      
+Muthukrishan
+
+Project Name: shopifyclone
+
+        all the task assigned by saravanan sir
+
+      
